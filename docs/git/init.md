@@ -70,7 +70,11 @@ It provides an easy set of rules for creating an explicit commit history; which 
 The commit message should be structured as follows:
 
 ```
-<type>(scope): <description>
+<type>[optional scope]: <description>
+
+[optional body]
+
+[optional footer(s)]
 ```
 
 The commit contains the following structural elements, to communicate intent to the consumers of your library:
