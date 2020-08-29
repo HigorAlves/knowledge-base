@@ -11,4 +11,4 @@
 ---
 ## The Basics
 
-- Git & GitHub
+- [Git & GitHub](https://github.com/HigorAlves/knowledge-base/blob/main/docs/git/init.md)
