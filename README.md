@@ -2,5 +2,8 @@
 <p align="center">
   <img src="https://octodex.github.com/images/labtocat.png" width="250px" height="250px"/>
 </p>
+<p align="center">
+    <b>This is a repository where I want to categorize and leave my knowledge with the community!</b>
+</p>
 
-**This is a repository where I want to categorize and leave my knowledge with the community!**
+
