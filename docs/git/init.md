@@ -33,3 +33,4 @@ Always use rebase to update your feature branches before merging into develop. T
 # More Topics
 
 - [Signing commits]() **WIP**
+- [Git Flow]() **WIP**
